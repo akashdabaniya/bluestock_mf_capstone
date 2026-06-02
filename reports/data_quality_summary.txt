@@ -1,0 +1,46 @@
+========================================================================
+DATA QUALITY SUMMARY — Bluestock MF Capstone (Day 1)
+Generated: 2026-06-02 15:47:18
+========================================================================
+
+1. FUND MASTER
+   Rows          : 37627
+   Columns       : ['schemeCode', 'schemeName', 'isinGrowth', 'isinDivReinvestment']
+   Null counts   :
+     schemeCode                     : 0
+     schemeName                     : 0
+     isinGrowth                     : 29222
+     isinDivReinvestment            : 33500
+
+2. INDIVIDUAL NAV FILES
+   nav_118632.csv :   3298 rows | null NAVs: 0 | range: 2013-01-02 → 2026-06-01
+   nav_118834.csv :   3298 rows | null NAVs: 0 | range: 2013-01-02 → 2026-06-01
+   nav_118989.csv :   3299 rows | null NAVs: 0 | range: 2013-01-01 → 2026-06-01
+   nav_119092.csv :   3565 rows | null NAVs: 0 | range: 2012-12-31 → 2026-06-01
+   nav_119551.csv :   3236 rows | null NAVs: 0 | range: 2013-01-02 → 2026-06-01
+   nav_120503.csv :   3307 rows | null NAVs: 0 | range: 2013-01-02 → 2026-06-01
+   nav_120841.csv :   3301 rows | null NAVs: 0 | range: 2013-01-07 → 2026-06-01
+   nav_122639.csv :   3198 rows | null NAVs: 0 | range: 2013-05-28 → 2026-06-01
+   nav_125497.csv :   3091 rows | null NAVs: 0 | range: 2013-11-18 → 2026-06-01
+
+3. COMBINED NAV HISTORY
+   Shape         : (4901, 9)
+   Date range    : 2012-12-31 → 2026-06-01
+   Total nulls   : 486
+   Nulls per col :
+     nav_118632                     : 2
+     nav_118834                     : 2
+     nav_118989                     : 1
+     nav_119092                     : 0
+     nav_119551                     : 2
+     nav_120503                     : 2
+     nav_120841                     : 7
+     nav_122639                     : 148
+     nav_125497                     : 322
+
+4. AMFI CODE VALIDATION
+   All tracked scheme codes validated successfully ✓
+
+========================================================================
+END OF REPORT
+========================================================================
