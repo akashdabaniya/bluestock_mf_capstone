@@ -15,7 +15,7 @@ Can be run as a standalone script **or** imported as a module::
     from scripts.live_nav_fetch import fetch_live_navs
     summary_df = fetch_live_navs()
 
-Author : Your Name
+Author : Akash Dabaniya (@akashdabaniya)
 Date   : 2026-06-02
 """
 

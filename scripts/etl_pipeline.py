@@ -16,7 +16,7 @@ This script performs end-to-end data ingestion:
 Usage:
     python scripts/etl_pipeline.py
 
-Author : Your Name
+Author : Akash Dabaniya (@akashdabaniya)
 Date   : 2026-06-02
 """
 

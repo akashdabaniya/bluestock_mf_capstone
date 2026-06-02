@@ -112,7 +112,8 @@ Fetches the latest (most-recent) NAV for 6 key schemes and saves:
 
 ## 👤 Author
 
-**Your Name**
+**Akash Dabaniya**
+[GitHub: @akashdabaniya](https://github.com/akashdabaniya)
 _Bluestock Fintech — Mutual Fund Analytics Capstone_
 
 ---
