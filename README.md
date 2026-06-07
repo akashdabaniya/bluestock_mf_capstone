@@ -103,10 +103,10 @@ Fetches the latest (most-recent) NAV for 6 key schemes and saves:
 | Day | Deliverable | Weight | Status |
 |-----|-------------|--------|--------|
 | 1 | ETL Pipeline + Data Ingestion | 15 % | ✅ Complete |
-| 2 | Exploratory Data Analysis | — | 🔲 Pending |
-| 3 | Feature Engineering | — | 🔲 Pending |
-| 4 | Modelling & Dashboards | — | 🔲 Pending |
-| 5 | Final Report & Presentation | — | 🔲 Pending |
+| 2 | Data Cleaning & SQL Database Design | 20 % | ✅ Complete |
+| 3 | Exploratory Data Analysis (EDA) | 20 % | ✅ Complete |
+| 4 | Fund Performance Analytics | 20 % | ✅ Complete |
+| 5 | Final Report & Presentation | 25 % | 🔲 Pending |
 
 ---
 
